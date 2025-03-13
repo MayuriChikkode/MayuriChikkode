@@ -20,7 +20,7 @@ Welcome to my **Developer's Hub**, a hub for Full-Stack Development projects.Thi
 
 ### 🗄️ **Database**  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![OracleSQL](https://img.shields.io/badge/-OracleSQL-F80000?style=for-the-badge&logo=oracle)  
+<!--![OracleSQL](https://img.shields.io/badge/-OracleSQL-F80000?style=for-the-badge&logo=oracle)-->  
 
 ---
 
